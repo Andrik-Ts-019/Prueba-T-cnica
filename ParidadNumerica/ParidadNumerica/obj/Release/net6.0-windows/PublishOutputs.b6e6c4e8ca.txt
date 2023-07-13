@@ -1,0 +1,5 @@
+C:\Users\Andri\OneDrive\Escritorio\Publish\ParidadNumericaWF\ParidadNumerica.exe
+C:\Users\Andri\OneDrive\Escritorio\Publish\ParidadNumericaWF\ParidadNumerica.dll
+C:\Users\Andri\OneDrive\Escritorio\Publish\ParidadNumericaWF\ParidadNumerica.deps.json
+C:\Users\Andri\OneDrive\Escritorio\Publish\ParidadNumericaWF\ParidadNumerica.runtimeconfig.json
+C:\Users\Andri\OneDrive\Escritorio\Publish\ParidadNumericaWF\ParidadNumerica.pdb

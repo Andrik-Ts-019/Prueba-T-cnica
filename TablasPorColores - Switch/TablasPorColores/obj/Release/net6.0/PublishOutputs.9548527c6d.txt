@@ -1,0 +1,5 @@
+C:\Users\Andri\OneDrive\Escritorio\Publish\Tablas por colores - SWITCH\TablasPorColores.exe
+C:\Users\Andri\OneDrive\Escritorio\Publish\Tablas por colores - SWITCH\TablasPorColores.dll
+C:\Users\Andri\OneDrive\Escritorio\Publish\Tablas por colores - SWITCH\TablasPorColores.deps.json
+C:\Users\Andri\OneDrive\Escritorio\Publish\Tablas por colores - SWITCH\TablasPorColores.runtimeconfig.json
+C:\Users\Andri\OneDrive\Escritorio\Publish\Tablas por colores - SWITCH\TablasPorColores.pdb

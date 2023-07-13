@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TablasPorColores", "TablasPorColores\TablasPorColores.csproj", "{66BCFE7F-AE12-4569-88C5-E21BF4DDB3C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66BCFE7F-AE12-4569-88C5-E21BF4DDB3C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66BCFE7F-AE12-4569-88C5-E21BF4DDB3C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66BCFE7F-AE12-4569-88C5-E21BF4DDB3C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66BCFE7F-AE12-4569-88C5-E21BF4DDB3C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DE97B0E-E4F0-4DCE-9596-075FCF2EC324}
+	EndGlobalSection
+EndGlobal

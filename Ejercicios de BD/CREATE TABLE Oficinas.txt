@@ -1,0 +1,9 @@
+CREATE TABLE [dbo].[Oficinas] (
+    ID int PRIMARY KEY (ID),
+    NOMBRE varchar(100) NOT NULL,
+    DIRECCION varchar(255) NOT NULL,
+    CIUDAD varchar(255) NOT NULL,
+    ESTADO varchar(255) NOT NULL,
+    PAIS varchar(100) NOT NULL,
+    DIVISION int NOT NULL
+);

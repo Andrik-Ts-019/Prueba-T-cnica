@@ -1,0 +1,5 @@
+C:\Users\Andri\OneDrive\Escritorio\Publish\TABLAS POR COLORES IF\TablasPorColores.exe
+C:\Users\Andri\OneDrive\Escritorio\Publish\TABLAS POR COLORES IF\TablasPorColores.dll
+C:\Users\Andri\OneDrive\Escritorio\Publish\TABLAS POR COLORES IF\TablasPorColores.deps.json
+C:\Users\Andri\OneDrive\Escritorio\Publish\TABLAS POR COLORES IF\TablasPorColores.runtimeconfig.json
+C:\Users\Andri\OneDrive\Escritorio\Publish\TABLAS POR COLORES IF\TablasPorColores.pdb

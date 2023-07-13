@@ -1,0 +1,5 @@
+C:\Users\Andri\OneDrive\Escritorio\Publish\TextoInvertidoWF\Invertir Cadena.exe
+C:\Users\Andri\OneDrive\Escritorio\Publish\TextoInvertidoWF\Invertir Cadena.dll
+C:\Users\Andri\OneDrive\Escritorio\Publish\TextoInvertidoWF\Invertir Cadena.deps.json
+C:\Users\Andri\OneDrive\Escritorio\Publish\TextoInvertidoWF\Invertir Cadena.runtimeconfig.json
+C:\Users\Andri\OneDrive\Escritorio\Publish\TextoInvertidoWF\Invertir Cadena.pdb

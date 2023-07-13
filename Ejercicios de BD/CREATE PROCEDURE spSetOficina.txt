@@ -1,0 +1,52 @@
+CREATE PROCEDURE [dbo].[spSetOficinas]
+	@pID				int,
+    @pNOMBRE			varchar(100),
+    @pDIRECCION			varchar(255),
+    @pCIUDAD			varchar(255),
+    @pESTADO			varchar(255),
+	@pPAIS				varchar(100),
+	@pDIVISION			int,
+	@pNEWDIRECCION		bit = 0
+AS
+BEGIN
+	SET NOCOUNT ON
+
+	BEGIN TRY
+		DECLARE @vID int
+		SELECT TOP 1 @vID = CONVERT(INT, S.current_value) FROM sys.sequences S WHERE S.name = 'IDOFICINA_SEC'
+
+		IF @pNEWDIRECCION = 1
+			BEGIN
+				INSERT INTO [dbo].[Oficinas]
+				(                    
+					ID,
+					NOMBRE,
+					DIRECCION,
+					CIUDAD,
+					ESTADO,
+					PAIS,
+					DIVISION
+				) 
+				VALUES 
+				( 
+					@vID,
+					@pNOMBRE,
+					@pDIRECCION,
+					@pCIUDAD,
+					@pESTADO,
+					@pPAIS,
+					@pDIVISION
+				)
+			END
+		ELSE 
+			BEGIN
+				UPDATE [dbo].[Oficinas]
+				SET DIRECCION = @pDIRECCION
+				WHERE ID = @pID
+			END
+	END TRY  
+	BEGIN CATCH
+		SELECT 'HA OCURRIDO UN ERROR [dbo].[spSetOficinas]';
+	END CATCH;
+
+END;

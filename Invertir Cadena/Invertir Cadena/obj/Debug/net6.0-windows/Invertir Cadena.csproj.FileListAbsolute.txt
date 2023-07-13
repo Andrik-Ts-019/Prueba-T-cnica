@@ -1,0 +1,18 @@
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\Invertir Cadena\Invertir Cadena\bin\Debug\net6.0-windows\Invertir Cadena.exe
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\Invertir Cadena\Invertir Cadena\bin\Debug\net6.0-windows\Invertir Cadena.deps.json
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\Invertir Cadena\Invertir Cadena\bin\Debug\net6.0-windows\Invertir Cadena.runtimeconfig.json
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\Invertir Cadena\Invertir Cadena\bin\Debug\net6.0-windows\Invertir Cadena.dll
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\Invertir Cadena\Invertir Cadena\bin\Debug\net6.0-windows\Invertir Cadena.pdb
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\Invertir Cadena\Invertir Cadena\obj\Debug\net6.0-windows\Invertir Cadena.csproj.AssemblyReference.cache
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\Invertir Cadena\Invertir Cadena\obj\Debug\net6.0-windows\Invertir Cadena.csproj.GenerateResource.cache
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\Invertir Cadena\Invertir Cadena\obj\Debug\net6.0-windows\Invertir Cadena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\Invertir Cadena\Invertir Cadena\obj\Debug\net6.0-windows\Invertir Cadena.AssemblyInfoInputs.cache
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\Invertir Cadena\Invertir Cadena\obj\Debug\net6.0-windows\Invertir Cadena.AssemblyInfo.cs
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\Invertir Cadena\Invertir Cadena\obj\Debug\net6.0-windows\Invertir Cadena.csproj.CoreCompileInputs.cache
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\Invertir Cadena\Invertir Cadena\obj\Debug\net6.0-windows\Invertir Cadena.dll
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\Invertir Cadena\Invertir Cadena\obj\Debug\net6.0-windows\refint\Invertir Cadena.dll
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\Invertir Cadena\Invertir Cadena\obj\Debug\net6.0-windows\Invertir Cadena.pdb
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\Invertir Cadena\Invertir Cadena\obj\Debug\net6.0-windows\Invertir Cadena.genruntimeconfig.cache
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\Invertir Cadena\Invertir Cadena\obj\Debug\net6.0-windows\ref\Invertir Cadena.dll
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\Invertir Cadena\Invertir Cadena\obj\Debug\net6.0-windows\Invertir_Cadena.Home.resources
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\Invertir Cadena\Invertir Cadena\obj\Debug\net6.0-windows\Invertir_Cadena.SplashScreen.resources

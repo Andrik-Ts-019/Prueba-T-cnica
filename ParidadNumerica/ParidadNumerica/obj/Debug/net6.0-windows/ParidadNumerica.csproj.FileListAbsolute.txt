@@ -1,0 +1,35 @@
+C:\Users\Andri\Downloads\Prueba técnica\ParidadNumerica\ParidadNumerica\bin\Debug\net6.0-windows\ParidadNumerica.exe
+C:\Users\Andri\Downloads\Prueba técnica\ParidadNumerica\ParidadNumerica\bin\Debug\net6.0-windows\ParidadNumerica.deps.json
+C:\Users\Andri\Downloads\Prueba técnica\ParidadNumerica\ParidadNumerica\bin\Debug\net6.0-windows\ParidadNumerica.runtimeconfig.json
+C:\Users\Andri\Downloads\Prueba técnica\ParidadNumerica\ParidadNumerica\bin\Debug\net6.0-windows\ParidadNumerica.dll
+C:\Users\Andri\Downloads\Prueba técnica\ParidadNumerica\ParidadNumerica\bin\Debug\net6.0-windows\ParidadNumerica.pdb
+C:\Users\Andri\Downloads\Prueba técnica\ParidadNumerica\ParidadNumerica\obj\Debug\net6.0-windows\ParidadNumerica.csproj.AssemblyReference.cache
+C:\Users\Andri\Downloads\Prueba técnica\ParidadNumerica\ParidadNumerica\obj\Debug\net6.0-windows\ParidadNumerica.Home.resources
+C:\Users\Andri\Downloads\Prueba técnica\ParidadNumerica\ParidadNumerica\obj\Debug\net6.0-windows\ParidadNumerica.csproj.GenerateResource.cache
+C:\Users\Andri\Downloads\Prueba técnica\ParidadNumerica\ParidadNumerica\obj\Debug\net6.0-windows\ParidadNumerica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andri\Downloads\Prueba técnica\ParidadNumerica\ParidadNumerica\obj\Debug\net6.0-windows\ParidadNumerica.AssemblyInfoInputs.cache
+C:\Users\Andri\Downloads\Prueba técnica\ParidadNumerica\ParidadNumerica\obj\Debug\net6.0-windows\ParidadNumerica.AssemblyInfo.cs
+C:\Users\Andri\Downloads\Prueba técnica\ParidadNumerica\ParidadNumerica\obj\Debug\net6.0-windows\ParidadNumerica.csproj.CoreCompileInputs.cache
+C:\Users\Andri\Downloads\Prueba técnica\ParidadNumerica\ParidadNumerica\obj\Debug\net6.0-windows\ParidadNumerica.dll
+C:\Users\Andri\Downloads\Prueba técnica\ParidadNumerica\ParidadNumerica\obj\Debug\net6.0-windows\refint\ParidadNumerica.dll
+C:\Users\Andri\Downloads\Prueba técnica\ParidadNumerica\ParidadNumerica\obj\Debug\net6.0-windows\ParidadNumerica.pdb
+C:\Users\Andri\Downloads\Prueba técnica\ParidadNumerica\ParidadNumerica\obj\Debug\net6.0-windows\ParidadNumerica.genruntimeconfig.cache
+C:\Users\Andri\Downloads\Prueba técnica\ParidadNumerica\ParidadNumerica\obj\Debug\net6.0-windows\ref\ParidadNumerica.dll
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\ParidadNumerica\ParidadNumerica\bin\Debug\net6.0-windows\ParidadNumerica.exe
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\ParidadNumerica\ParidadNumerica\bin\Debug\net6.0-windows\ParidadNumerica.deps.json
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\ParidadNumerica\ParidadNumerica\bin\Debug\net6.0-windows\ParidadNumerica.runtimeconfig.json
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\ParidadNumerica\ParidadNumerica\bin\Debug\net6.0-windows\ParidadNumerica.dll
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\ParidadNumerica\ParidadNumerica\bin\Debug\net6.0-windows\ParidadNumerica.pdb
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\ParidadNumerica\ParidadNumerica\obj\Debug\net6.0-windows\ParidadNumerica.csproj.AssemblyReference.cache
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\ParidadNumerica\ParidadNumerica\obj\Debug\net6.0-windows\ParidadNumerica.Home.resources
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\ParidadNumerica\ParidadNumerica\obj\Debug\net6.0-windows\ParidadNumerica.csproj.GenerateResource.cache
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\ParidadNumerica\ParidadNumerica\obj\Debug\net6.0-windows\ParidadNumerica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\ParidadNumerica\ParidadNumerica\obj\Debug\net6.0-windows\ParidadNumerica.AssemblyInfoInputs.cache
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\ParidadNumerica\ParidadNumerica\obj\Debug\net6.0-windows\ParidadNumerica.AssemblyInfo.cs
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\ParidadNumerica\ParidadNumerica\obj\Debug\net6.0-windows\ParidadNumerica.csproj.CoreCompileInputs.cache
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\ParidadNumerica\ParidadNumerica\obj\Debug\net6.0-windows\ParidadNumerica.dll
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\ParidadNumerica\ParidadNumerica\obj\Debug\net6.0-windows\refint\ParidadNumerica.dll
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\ParidadNumerica\ParidadNumerica\obj\Debug\net6.0-windows\ParidadNumerica.pdb
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\ParidadNumerica\ParidadNumerica\obj\Debug\net6.0-windows\ParidadNumerica.genruntimeconfig.cache
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\ParidadNumerica\ParidadNumerica\obj\Debug\net6.0-windows\ref\ParidadNumerica.dll
+C:\Users\Andri\Downloads\Prueba técnica DECO DIGITAL\ParidadNumerica\ParidadNumerica\obj\Debug\net6.0-windows\ParidadNumerica.SplashScreen.resources
